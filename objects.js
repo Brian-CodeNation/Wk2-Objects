@@ -73,3 +73,11 @@ const cafe = {
 
 console.log(cafe.openCafe());
 console.log(cafe.closeCafe());
+
+// More code to the project
+// More code to the project
+// More code to the project
+// More code to the project
+// More code to the project
+// More code to the project
+// More code to the project
